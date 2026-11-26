@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bambhaniyapraful7-create.github.io/praful-music-web/sitemap.xml
